@@ -1,0 +1,22 @@
+1)
+Install-Package Microsoft.EntityFrameworkCore;
+Install-Package Microsoft.EntityFrameworkCore.SqlServer;
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+2) crea i model a partire dal db (server: NB-0076\SQLEXPRESS)
+Scaffold-DbContext "Server=NB-0076\SQLEXPRESS;Database=DatanaseName;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+3) Nel file appsettings.json aggiungere la connection string per accesso al database
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=.\\SQLEXPRESS;Database=DbName;Trusted_Connection=True;TrustServerCertificate=True;"
+},
+
+4) Aggiungere nel Program il servizio per Entity Framework
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext<NewContext>(options =>
+    options.UseSqlServer(connectionString));
+
+5) Creare controller e view per le entità
+tasto dx -> aggiungi -> controller -> seleziona 3° opzione -> selezionare la classe e il DbContext, eventualmente modifica il nome
