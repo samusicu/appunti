@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\dtos\\moviefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:dtos\\moviefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\models\\mymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:models\\mymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\movieswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914E06A7-25BA-4D8D-8294-D55D6376191A}|MoviesWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieFilter.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\DTOs\\MovieFilter.cs",
+              "RelativeDocumentMoniker": "DTOs\\MovieFilter.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\DTOs\\MovieFilter.cs",
+              "RelativeToolTip": "DTOs\\MovieFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:21:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\DTOs\\MovieDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\DTOs\\MovieDto.cs",
+              "RelativeToolTip": "DTOs\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:49:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:20:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:20:47.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyMoviesContext.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\MyMoviesContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyMoviesContext.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Models\\MyMoviesContext.cs",
+              "RelativeToolTip": "Models\\MyMoviesContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvz4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:20:37.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T08:58:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:48:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:46:10.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:32:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\MoviesWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T08:32:09.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
