@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Autovelox.WebAPI.props" />
+</Project>

@@ -1,94 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\",
+  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250704162933_update-user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\dtos\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704100034_update-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250704100034_update-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\migrations\\20250702083809_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\20250702083809_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\migrations\\20250704162933_update-user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\20250704162933_update-user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\migrations\\20250702083809_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\20250702083809_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\migrations\\20250701073740_create-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\migrations\\20250701073740_create-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\20250701073740_create-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\webapiefcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\webapiefcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:webapiefcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samuele.sicura\\desktop\\prova\\webapiefcodefirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\migrations\\20250704100034_update-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:migrations\\20250704100034_update-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,8 +98,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 25,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -126,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "20250704162933_update-user2.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs",
               "RelativeDocumentMoniker": "Migrations\\20250704162933_update-user2.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs",
               "RelativeToolTip": "Migrations\\20250704162933_update-user2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,104 +143,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserRegister.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserRegister.cs",
               "RelativeDocumentMoniker": "Dtos\\UserRegister.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserRegister.cs",
               "RelativeToolTip": "Dtos\\UserRegister.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:42:49.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T10:42:49.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "20250704100034_update-user.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704100034_update-user.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250704100034_update-user.cs",
               "RelativeDocumentMoniker": "Migrations\\20250704100034_update-user.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250704100034_update-user.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250704100034_update-user.cs",
               "RelativeToolTip": "Migrations\\20250704100034_update-user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:00:35.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T10:00:35.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "20250702083809_Update-Product.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250702083809_Update-Product.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250702083809_Update-Product.cs",
               "RelativeDocumentMoniker": "Migrations\\20250702083809_Update-Product.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250702083809_Update-Product.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250702083809_Update-Product.cs",
               "RelativeToolTip": "Migrations\\20250702083809_Update-Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T09:54:14.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T09:54:14.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserLogin.cs",
               "RelativeDocumentMoniker": "Dtos\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserLogin.cs",
               "RelativeToolTip": "Dtos\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T09:49:43.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T09:49:43.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "20250701073740_create-user.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250701073740_create-user.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250701073740_create-user.cs",
               "RelativeDocumentMoniker": "Migrations\\20250701073740_create-user.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\20250701073740_create-user.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250701073740_create-user.cs",
               "RelativeToolTip": "Migrations\\20250701073740_create-user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T08:47:52.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T08:47:52.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAIwDsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T08:32:09.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T08:32:09.714Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Jwt\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
               "RelativeToolTip": "Jwt\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T08:31:27.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Dtos\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
               "RelativeToolTip": "Dtos\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T08:25:19.618Z",
               "EditorCaption": ""
@@ -245,35 +243,34 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\ProductDto.cs",
               "RelativeToolTip": "Dtos\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:22:24.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T08:22:24.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T08:21:11.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,35 +292,33 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:31:36.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T14:31:36.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserDto.cs",
               "RelativeToolTip": "Dtos\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:48:16.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:48:16.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "WebApiEfCodeFirst.csproj",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
               "RelativeDocumentMoniker": "WebApiEfCodeFirst.csproj",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
               "RelativeToolTip": "WebApiEfCodeFirst.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -331,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -343,65 +338,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAUwFIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:40:02.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:40:02.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T07:36:56.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:36:37.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:36:37.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:35:25.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:35:25.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-01T07:33:22.914Z",
               "EditorCaption": ""

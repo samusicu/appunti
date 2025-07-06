@@ -1,0 +1,99 @@
+1)  
+        Install-Package Microsoft.AspNetCore.Authentication.JwtBearer
+
+2) UserService:
+getUser() da username o id o email
+authenticate() per controllo psw
+
+public async Task<User> GetUser(string username)
+{
+    return await context.Users
+        .Where(c => c.Username == username)
+        .FirstOrDefaultAsync();
+}
+
+public async Task<bool> Authenticate(UserLogin user)
+{
+
+    User utente = await GetUser(user.Username);
+
+    if (utente != null)
+    {
+        string EncryptPwd = utente.Password;
+        return EncryptPwd == user.Password;
+    }
+
+    return false;
+}
+
+//ci starebbe anche un PasswordHasher 
+
+3)JwtService
+public class JwtService(IConfiguration configuration)
+{
+    public string CreateToken(User user)
+    {
+        string secretKey = configuration["JwtSettings:Key"];
+        var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey));
+        var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+        var tokenDescriptor = new SecurityTokenDescriptor
+        {
+            Subject = new ClaimsIdentity(
+            [
+                new Claim(JwtRegisteredClaimNames.Sub, user.UserId.ToString()),
+                //new Claim(JwtRegisteredClaimNames.Email, user.Email)
+            ]),
+            Expires = DateTime.UtcNow.AddMinutes(1),
+            SigningCredentials = credentials,
+        };
+
+        var handler = new JsonWebTokenHandler();
+        string token = handler.CreateToken(tokenDescriptor);
+        return token;
+    }
+}
+
+4)AuthController
+ [HttpPost("auth")]
+ public async Task<string> Authenticate(UserLogin user)
+ {
+     bool auth = false;
+     string token = "";
+
+     if (user != null)
+     {
+         auth = await userService.Authenticate(user);
+         if (auth)
+             token = jwtService.CreateToken(await userService.GetUser(user.Username));
+     }
+     return token;
+ }
+
+5) program
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = false, // Se usi un issuer specifico, imposta su true
+        ValidateAudience = false, // Se hai audience specifici, imposta su true
+        ValidateLifetime = true, // Controlla la scadenza del token
+        ValidateIssuerSigningKey = true, // Controlla la firma del token
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
+            builder.Configuration.GetSection("JwtSettings")["Key"]))
+    };
+});
+
+builder.Services.AddAuthorization();
+
+.
+.
+.
+
+app.UseAuthentication();
+app.UseAuthorization();
+
+6) appsetting.json
+    "JwtSettings": {
+        "Key": "ThisIsA32CharacterLongSecretKey!"
+    }

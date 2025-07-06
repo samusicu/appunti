@@ -1,0 +1,15 @@
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\bin\Debug\net9.0\EfCodeFirst.deps.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\bin\Debug\net9.0\EfCodeFirst.runtimeconfig.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\bin\Debug\net9.0\EfCodeFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\bin\Debug\net9.0\EfCodeFirst.pdb
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.AssemblyInfo.cs
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.sourcelink.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\refint\EfCodeFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.pdb
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\EfCodeFirst.genruntimeconfig.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfCodeFirst\obj\Debug\net9.0\ref\EfCodeFirst.dll

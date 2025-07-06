@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registrazione</title>
+</head>
+<body>
+    <h2>Registrati</h2>
+    <input id="username" placeholder="Username" />
+    <input id="password" type="password" placeholder="Password" />
+    <button onclick="register()">Registrati</button>
+    <button onclick="goToLogin()">Torna al login</button>
+
+    <p id="status"></p>
+
+    <script>
+        async function register() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            const response = await fetch('http://localhost:5000/api/auth/register', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username, password })
+            });
+
+            const data = await response.json();
+
+            if (response.ok) {
+                document.getElementById('status').textContent = 'Registrazione completata! Vai al login...';
+                setTimeout(() => window.location.href = 'login.html', 1500);
+            } else {
+                document.getElementById('status').textContent = data.message || 'Errore durante la registrazione.';
+            }
+        }
+
+        function goToLogin() {
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>

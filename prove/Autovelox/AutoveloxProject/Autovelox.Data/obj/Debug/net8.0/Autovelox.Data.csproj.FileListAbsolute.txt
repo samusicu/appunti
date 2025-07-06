@@ -1,0 +1,28 @@
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.deps.json
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.runtimeconfig.json
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.pdb
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.AssemblyInfo.cs
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\refint\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.pdb
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.genruntimeconfig.cache
+C:\Users\ICTS23-25.084\OneDrive - ITS ICT Piemonte\projects\C#\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\ref\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.deps.json
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.runtimeconfig.json
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\bin\Debug\net8.0\Autovelox.Data.pdb
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.AssemblyInfo.cs
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\refint\Autovelox.Data.dll
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.pdb
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\Autovelox.Data.genruntimeconfig.cache
+C:\Users\ICTS23-25.084\Desktop\Nuova cartella\AutoveloxProject\Autovelox.Data\obj\Debug\net8.0\ref\Autovelox.Data.dll

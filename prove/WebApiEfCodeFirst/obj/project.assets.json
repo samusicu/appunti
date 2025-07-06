@@ -7697,23 +7697,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samuele.sicura\\.nuget\\packages\\": {},
+    "C:\\Users\\samue\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
       "projectName": "WebApiEfCodeFirst",
-      "projectPath": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
-      "packagesPath": "C:\\Users\\samuele.sicura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuele.sicura\\Desktop\\prova\\WebApiEfCodeFirst\\obj\\",
+      "projectPath": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\WebApiEfCodeFirst.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\samuele.sicura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7722,8 +7722,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/basicnetspa/_packaging/B2COrganizationScopedFeed/nuget/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -7741,7 +7741,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -7801,7 +7801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\bin\Debug\net9.0\EfDbFirst.deps.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\bin\Debug\net9.0\EfDbFirst.runtimeconfig.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\bin\Debug\net9.0\EfDbFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\bin\Debug\net9.0\EfDbFirst.pdb
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.AssemblyInfo.cs
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.sourcelink.json
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\refint\EfDbFirst.dll
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.pdb
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\EfDbFirst.genruntimeconfig.cache
+C:\Users\samue\Desktop\appunti\appunti\GeneralTest\EfDbFirst\obj\Debug\net9.0\ref\EfDbFirst.dll

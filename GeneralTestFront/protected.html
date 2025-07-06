@@ -1,0 +1,44 @@
+<!-- protected.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Area Protetta</title>
+</head>
+<body>
+    <h2>Area protetta</h2>
+    <button onclick="callApi()">Chiamata API</button>
+    <button onclick="logout()">Logout</button>
+
+    <pre id="result"></pre>
+
+    <script>
+        async function callApi() {
+            const token = localStorage.getItem('token');
+            if (!token) {
+                document.getElementById('result').textContent = 'Utente non autenticato.';
+                return;
+            }
+
+            const response = await fetch('http://localhost:5000/api/values', {
+                method: 'GET',
+                headers: {
+                    'Authorization': 'Bearer ' + token
+                }
+            });
+
+            if (response.status === 401) {
+                document.getElementById('result').textContent = 'Token non valido o scaduto.';
+                return;
+            }
+
+            const data = await response.text();
+            document.getElementById('result').textContent = data;
+        }
+
+        function logout() {
+            localStorage.removeItem('token');
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>

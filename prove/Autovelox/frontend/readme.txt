@@ -1,0 +1,2 @@
+Ho fatto un esempio di visualizzazione dell'elenco dei comuni con una barra di ricerca che filtra sui campi testuali.
+Per il cors è stata abilitata la porta 5500, lanciare index.html su questa porta o modificare la policy del backend su Program.cs

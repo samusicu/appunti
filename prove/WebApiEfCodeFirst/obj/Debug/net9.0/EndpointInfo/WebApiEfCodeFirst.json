@@ -479,8 +479,8 @@
       "User": {
         "required": [
           "email",
-          "name",
-          "password"
+          "password",
+          "username"
         ],
         "type": "object",
         "properties": {
@@ -488,7 +488,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "name": {
+          "username": {
             "minLength": 1,
             "type": "string"
           },
