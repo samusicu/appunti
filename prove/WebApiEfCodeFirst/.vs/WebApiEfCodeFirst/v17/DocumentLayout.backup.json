@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|solutionrelative:dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCB4E9E4-F1BD-4ED9-915E-53617768B2FE}|WebApiEfCodeFirst.csproj|c:\\users\\samue\\desktop\\appunti\\appunti\\prove\\webapiefcodefirst\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "20250704162933_update-user2.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250704162933_update-user2.cs",
               "RelativeDocumentMoniker": "Migrations\\20250704162933_update-user2.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserRegister.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserRegister.cs",
               "RelativeDocumentMoniker": "Dtos\\UserRegister.cs",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250702083809_Update-Product.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\20250702083809_Update-Product.cs",
               "RelativeDocumentMoniker": "Migrations\\20250702083809_Update-Product.cs",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserLogin.cs",
               "RelativeDocumentMoniker": "Dtos\\UserLogin.cs",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -215,32 +215,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Jwt\\JwtSettings.cs",
               "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Jwt\\JwtSettings.cs",
               "RelativeToolTip": "Jwt\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T08:31:27.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Dtos\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\MappingProfile.cs",
               "RelativeToolTip": "Dtos\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:25:19.618Z"
+              "WhenOpened": "2025-07-02T08:25:19.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProductDto.cs",
@@ -252,15 +253,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:21:11.084Z"
+              "WhenOpened": "2025-07-02T08:21:11.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -288,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -300,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
@@ -336,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -348,15 +350,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:36:56.119Z"
+              "WhenOpened": "2025-07-01T07:36:56.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -372,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -384,15 +387,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\samue\\Desktop\\appunti\\appunti\\prove\\WebApiEfCodeFirst\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-01T07:33:22.914Z"
+              "WhenOpened": "2025-07-01T07:33:22.914Z",
+              "EditorCaption": ""
             }
           ]
         }

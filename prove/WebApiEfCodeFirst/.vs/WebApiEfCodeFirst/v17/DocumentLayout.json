@@ -138,8 +138,7 @@
               "RelativeToolTip": "Migrations\\20250704162933_update-user2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:29:33.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T16:29:33.873Z"
             },
             {
               "$type": "Document",
@@ -223,8 +222,7 @@
               "RelativeToolTip": "Jwt\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T08:31:27.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T08:31:27.675Z"
             },
             {
               "$type": "Document",
@@ -236,8 +234,7 @@
               "RelativeToolTip": "Dtos\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:25:19.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T08:25:19.618Z"
             },
             {
               "$type": "Document",
@@ -261,8 +258,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:21:11.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T08:21:11.084Z"
             },
             {
               "$type": "Document",
@@ -358,8 +354,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:36:56.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:36:56.119Z"
             },
             {
               "$type": "Document",
@@ -395,8 +390,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-01T07:33:22.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T07:33:22.914Z"
             }
           ]
         }
